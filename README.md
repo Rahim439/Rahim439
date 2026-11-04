@@ -1,78 +1,113 @@
 
-<h1 align="center">Rahim Chaudhary</h1>
+<div align="center">
 
-<p align="center"><strong>Full-Stack Software Engineer · AI Integrations</strong></p>
+# Hi there, I'm Rahim Chaudhary 👋
 
-<p align="center">I build full-stack products and make them smarter with AI.</p>
+### Full-Stack Software Engineer | Building Products with AI
 
-<p align="center">
-  <a href="https://rahimchaudhary.me"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-18181B?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rahim-chaudhary/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" /></a>
-  <a href="mailto:rahimch606@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-334155?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
-</p>
+I build full-stack products and make them smarter with AI.
 
-<p align="center"><sub>Based in Lahore, Pakistan · Building across frontend, backend, and AI workflows</sub></p>
+📍 Lahore, Pakistan 🇵🇰
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://rahimchaudhary.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahim-chaudhary/)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahimch606@gmail.com)
 
-## About me
+![Profile Views](https://komarev.com/ghpvc/?username=rahim439&label=Profile%20Views&color=0e75b6&style=flat)
 
-I'm a software engineer with **1+ years of professional experience** building production applications with **Next.js, NestJS, TypeScript, and PostgreSQL**. I enjoy owning features end-to-end—from user interfaces and APIs to authentication, asynchronous jobs, and deployment.
-
-## Engineering highlights
-
-### 01 / AI voice & automation
-
-Integrated **8 Retell AI voice agents** across production workflows. On CWS, worked on queue-backed callback scheduling with **Redis and BullMQ**, automatic retries, call tracking, and a dashboard for human review.
-
-[Explore the CWS case study →](https://rahimchaudhary.me/work/cws)
-
-### 02 / Full-stack product development
-
-Built features for **Brillix**, a healthcare-oriented community platform: onboarding, nested discussions, real-time notifications, rich-text editing, admin dashboards, and responsive application flows.
-
-[Explore the Brillix case study →](https://rahimchaudhary.me/work/brillix)
-
-### 03 / Security, performance & reliability
-
-Worked with **JWT and HTTP-only cookies, CSRF/CSP protections, and content sanitization**. Improved demanding interfaces through **virtualized lists, pagination, lazy loading, and accessibility fixes**.
+</div>
 
 ---
 
-## Tech stack
+### 👨‍💻 About Me
+
+I'm a software engineer with **1+ years of professional experience** building full-stack applications, integrating AI-powered features, and delivering production-ready software.
+
+My work spans modern frontend interfaces, backend APIs, database design, authentication, and AI integrations.
+
+- 🚀 Building applications with **Next.js, React, TypeScript, NestJS, and PostgreSQL**
+- 🤖 Integrated **8 AI voice agents** using Retell AI for real-world workflows
+- ⚙️ Experienced with **REST APIs, background jobs, task queues, and third-party integrations**
+- 🔐 Focused on **security, performance, scalability, and maintainable code**
+- 🌱 Continuously exploring **AI-powered applications and modern software architecture**
+- 🌐 Portfolio: **[rahimchaudhary.me](https://rahimchaudhary.me)**
+- 📫 Reach me at **rahimch606@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
 
 **Frontend**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind&amp;theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind&amp;theme=light" />
-  <img alt="TypeScript, JavaScript, React, Next.js, and Tailwind CSS" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind&amp;theme=light" />
-</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Frontend Technologies" />
+</p>
 
-**Backend & databases**
+**Backend & Databases**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,prisma,redis&amp;theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,prisma,redis&amp;theme=light" />
-  <img alt="Node.js, NestJS, Express, PostgreSQL, Prisma, and Redis" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,prisma,redis&amp;theme=light" />
-</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,postgres,mongodb&theme=dark" alt="Backend Technologies" />
+</p>
 
-**Cloud & developer tools**
+**DevOps & Developer Tools**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,githubactions,aws,vercel,git&amp;theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,githubactions,aws,vercel,git&amp;theme=light" />
-  <img alt="Docker, GitHub Actions, AWS, Vercel, and Git" src="https://skillicons.dev/icons?i=docker,githubactions,aws,vercel,git&amp;theme=light" />
-</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,vscode&theme=dark" alt="Developer Tools" />
+</p>
 
-**Also working with:** Retell AI · BullMQ · REST APIs · OAuth · shadcn/ui
+**AI & Integrations**
+
+- Retell AI — Conversational Voice Agents
+- AI API Integrations
+- Workflow Automation
+- Background Jobs & Task Scheduling
+- Third-Party API Integrations
 
 ---
 
-## Work beyond GitHub
+### 💡 What I've Worked On
 
-Much of my production work lives in private repositories. My [portfolio case studies](https://rahimchaudhary.me/work) describe the technical problems, architecture, and contributions behind that work without exposing confidential source code.
+**🤖 AI Voice Agent Integrations**
+- Integrated 8 Retell AI voice agents into production workflows.
+- Implemented scheduling, callbacks, and automated task execution.
+- Connected conversational AI systems with application backends.
 
-<p align="center"><strong>Have a project or engineering opportunity in mind?</strong></p>
+**⚡ Full-Stack Web Applications**
+- Developed responsive interfaces, dashboards, and onboarding experiences.
+- Built backend APIs, authentication systems, and database-driven features.
+- Implemented rich-text editors, nested comments, and optimized data rendering.
 
-<p align="center"><a href="mailto:rahimch606@gmail.com">Let's connect</a> · <a href="https://rahimchaudhary.me/work">View my work</a></p>
+**🔐 Security & Performance**
+- Implemented JWT authentication with HTTP-only cookies.
+- Worked with CSRF protection, Content Security Policy, and input sanitization.
+- Improved application performance, accessibility, and SEO.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahim439&show_icons=true&theme=github_dark&hide_border=true" alt="Rahim's GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahim439&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+
+<img src="https://streak-stats.demolab.com?user=rahim439&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+I'm always interested in meaningful engineering discussions, interesting products, and opportunities to build software that solves real problems.
+
+- 🌍 **Portfolio:** [rahimchaudhary.me](https://rahimchaudhary.me)
+- 💼 **LinkedIn:** [Rahim Chaudhary](https://www.linkedin.com/in/rahim-chaudhary/)
+- 📧 **Email:** [rahimch606@gmail.com](mailto:rahimch606@gmail.com)
+
+<div align="center">
+
+**Build thoughtfully. Ship reliably. Keep learning.**
+
+</div>
