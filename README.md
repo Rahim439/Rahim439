@@ -1,22 +1,113 @@
-<h1 align="center">Hi 👋, I'm Rahim Chaudhary</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahim439&label=Profile%20views&color=0e75b6&style=flat" alt="rahim439" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahim439" alt="rahim439" /></a> </p>
+# Hi there, I'm Rahim Chaudhary 👋
 
-- 📫 How to reach me **rahimch606@gmail.com**
+### Full-Stack Software Engineer | Building Products with AI
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rahim-chaudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahim-chaudhary/" height="30" width="40" /></a>
+I build full-stack products and make them smarter with AI.
+
+📍 Lahore, Pakistan 🇵🇰
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://rahimchaudhary.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahim-chaudhary/)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahimch606@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=rahim439&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a software engineer with **1+ years of professional experience** building full-stack applications, integrating AI-powered features, and delivering production-ready software.
+
+My work spans modern frontend interfaces, backend APIs, database design, authentication, and AI integrations.
+
+- 🚀 Building applications with **Next.js, React, TypeScript, NestJS, and PostgreSQL**
+- 🤖 Integrated **8 AI voice agents** using Retell AI for real-world workflows
+- ⚙️ Experienced with **REST APIs, background jobs, task queues, and third-party integrations**
+- 🔐 Focused on **security, performance, scalability, and maintainable code**
+- 🌱 Continuously exploring **AI-powered applications and modern software architecture**
+- 🌐 Portfolio: **[rahimchaudhary.me](https://rahimchaudhary.me)**
+- 📫 Reach me at **rahimch606@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Frontend Technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+**Backend & Databases**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahim439&show_icons=true&locale=en&layout=compact" alt="rahim439" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,postgres,mongodb&theme=dark" alt="Backend Technologies" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahim439&show_icons=true&locale=en" alt="rahim439" /></p>
+**DevOps & Developer Tools**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahim439&" alt="rahim439" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,vscode&theme=dark" alt="Developer Tools" />
+</p>
+
+**AI & Integrations**
+
+- Retell AI — Conversational Voice Agents
+- AI API Integrations
+- Workflow Automation
+- Background Jobs & Task Scheduling
+- Third-Party API Integrations
+
+---
+
+### 💡 What I've Worked On
+
+**🤖 AI Voice Agent Integrations**
+- Integrated 8 Retell AI voice agents into production workflows.
+- Implemented scheduling, callbacks, and automated task execution.
+- Connected conversational AI systems with application backends.
+
+**⚡ Full-Stack Web Applications**
+- Developed responsive interfaces, dashboards, and onboarding experiences.
+- Built backend APIs, authentication systems, and database-driven features.
+- Implemented rich-text editors, nested comments, and optimized data rendering.
+
+**🔐 Security & Performance**
+- Implemented JWT authentication with HTTP-only cookies.
+- Worked with CSRF protection, Content Security Policy, and input sanitization.
+- Improved application performance, accessibility, and SEO.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahim439&show_icons=true&theme=github_dark&hide_border=true" alt="Rahim's GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahim439&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+
+<img src="https://streak-stats.demolab.com?user=rahim439&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+I'm always interested in meaningful engineering discussions, interesting products, and opportunities to build software that solves real problems.
+
+- 🌍 **Portfolio:** [rahimchaudhary.me](https://rahimchaudhary.me)
+- 💼 **LinkedIn:** [Rahim Chaudhary](https://www.linkedin.com/in/rahim-chaudhary/)
+- 📧 **Email:** [rahimch606@gmail.com](mailto:rahimch606@gmail.com)
+
+<div align="center">
+
+**Build thoughtfully. Ship reliably. Keep learning.**
+
+</div>
