@@ -1,46 +1,40 @@
 
 <div align="center">
 
-# Hi there, I'm Rahim Chaudhary 👋
+# Hey, I'm Rahim Chaudhary 👋
 
-### Full-Stack Software Engineer | Building Products with AI
+### Software Engineer · Full-Stack & AI Integrations
 
 I build full-stack products and make them smarter with AI.
 
-📍 Lahore, Pakistan 🇵🇰
+Based in Lahore, Pakistan 🇵🇰
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://rahimchaudhary.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahim-chaudhary/)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahimch606@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=rahim439&label=Profile%20Views&color=0e75b6&style=flat)
+[Portfolio](https://rahimchaudhary.me) · [LinkedIn](https://www.linkedin.com/in/rahim-chaudhary/) · [Email](mailto:rahimch606@gmail.com)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-I'm a software engineer with **1+ years of professional experience** building full-stack applications, integrating AI-powered features, and delivering production-ready software.
+I'm a **Software Engineer** with 1+ years of professional experience developing production-ready applications, from intuitive user interfaces to backend systems and AI-powered integrations.
 
-My work spans modern frontend interfaces, backend APIs, database design, authentication, and AI integrations.
+I work primarily with **TypeScript, React, Next.js, NestJS, and PostgreSQL**, with a focus on building software that's reliable, maintainable, and built to scale.
 
-- 🚀 Building applications with **Next.js, React, TypeScript, NestJS, and PostgreSQL**
-- 🤖 Integrated **8 AI voice agents** using Retell AI for real-world workflows
-- ⚙️ Experienced with **REST APIs, background jobs, task queues, and third-party integrations**
-- 🔐 Focused on **security, performance, scalability, and maintainable code**
-- 🌱 Continuously exploring **AI-powered applications and modern software architecture**
-- 🌐 Portfolio: **[rahimchaudhary.me](https://rahimchaudhary.me)**
-- 📫 Reach me at **rahimch606@gmail.com**
+- 🧠 Integrated **8 AI voice agents** using Retell AI for real-world workflows.
+- ⚡ Built full-stack applications with authentication, dashboards, APIs, and database-driven features.
+- 🔧 Worked with background jobs, scheduled tasks, and third-party API integrations.
+- 🔐 Implemented security measures including JWT, HTTP-only cookies, CSRF protection, and CSP.
+- 🚀 Interested in **AI-powered products, backend architecture, and developer experience**.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark" alt="Frontend Technologies" />
 </p>
 
 **Backend & Databases**
@@ -49,65 +43,73 @@ My work spans modern frontend interfaces, backend APIs, database design, authent
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,postgres,mongodb&theme=dark" alt="Backend Technologies" />
 </p>
 
-**DevOps & Developer Tools**
+**Tools & Infrastructure**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,vscode&theme=dark" alt="Developer Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman&theme=dark" alt="Developer Tools" />
 </p>
 
-**AI & Integrations**
+**AI & Automation**
 
-- Retell AI — Conversational Voice Agents
-- AI API Integrations
-- Workflow Automation
-- Background Jobs & Task Scheduling
-- Third-Party API Integrations
+`Retell AI` · `Voice AI Agents` · `AI APIs` · `Workflow Automation` · `Background Jobs`
 
 ---
 
-### 💡 What I've Worked On
+### Engineering Experience
 
-**🤖 AI Voice Agent Integrations**
-- Integrated 8 Retell AI voice agents into production workflows.
-- Implemented scheduling, callbacks, and automated task execution.
-- Connected conversational AI systems with application backends.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**⚡ Full-Stack Web Applications**
-- Developed responsive interfaces, dashboards, and onboarding experiences.
-- Built backend APIs, authentication systems, and database-driven features.
-- Implemented rich-text editors, nested comments, and optimized data rendering.
+**01 / Full-Stack Development**
 
-**🔐 Security & Performance**
-- Implemented JWT authentication with HTTP-only cookies.
-- Worked with CSRF protection, Content Security Policy, and input sanitization.
-- Improved application performance, accessibility, and SEO.
+Building end-to-end applications with modern frontend frameworks, backend APIs, database integrations, authentication, and responsive user experiences.
+
+</td>
+<td width="50%" valign="top">
+
+**02 / AI Integrations**
+
+Integrating conversational AI voice agents with application workflows, including scheduling, callbacks, and automated task execution.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 / Backend & Architecture**
+
+Working with REST APIs, PostgreSQL, Prisma, asynchronous processing, cron jobs, and third-party services.
+
+</td>
+<td width="50%" valign="top">
+
+**04 / Quality & Performance**
+
+Improving application security, accessibility, SEO, rendering performance, and overall maintainability.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahim439&show_icons=true&theme=github_dark&hide_border=true" alt="Rahim's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=rahim439&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahim439&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
-
-<img src="https://streak-stats.demolab.com?user=rahim439&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahim439&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Most Used Languages" />
 
 </div>
 
 ---
 
-### 🤝 Let's Connect
-
-I'm always interested in meaningful engineering discussions, interesting products, and opportunities to build software that solves real problems.
-
-- 🌍 **Portfolio:** [rahimchaudhary.me](https://rahimchaudhary.me)
-- 💼 **LinkedIn:** [Rahim Chaudhary](https://www.linkedin.com/in/rahim-chaudhary/)
-- 📧 **Email:** [rahimch606@gmail.com](mailto:rahimch606@gmail.com)
-
 <div align="center">
 
-**Build thoughtfully. Ship reliably. Keep learning.**
+**Good software solves problems. Great software makes complexity feel simple.**
+
+[Explore my work](https://rahimchaudhary.me) · [Let's connect](https://www.linkedin.com/in/rahim-chaudhary/)
 
 </div>
