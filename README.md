@@ -1,115 +1,37 @@
 
-<div align="center">
+<sub>SOFTWARE ENGINEER · FULL-STACK & AI INTEGRATIONS</sub>
 
-# Hey, I'm Rahim Chaudhary 👋
+# Rahim Chaudhary
 
-### Software Engineer · Full-Stack & AI Integrations
+**I build full-stack products and make them smarter with AI.**
 
-I build full-stack products and make them smarter with AI.
+I'm a software engineer based in Lahore, Pakistan, with 1+ years of professional experience. I work across interfaces, APIs, databases, and the background systems that keep products running reliably.
 
-Based in Lahore, Pakistan 🇵🇰
-
-[Portfolio](https://rahimchaudhary.me) · [LinkedIn](https://www.linkedin.com/in/rahim-chaudhary/) · [Email](mailto:rahimch606@gmail.com)
-
-</div>
+[Portfolio](https://rahimchaudhary.me) · [Selected work](https://rahimchaudhary.me/work) · [LinkedIn](https://www.linkedin.com/in/rahim-chaudhary/) · [Email](mailto:rahimch606@gmail.com)
 
 ---
 
-### About Me
+## Selected engineering work
 
-I'm a **Software Engineer** with 1+ years of professional experience developing production-ready applications, from intuitive user interfaces to backend systems and AI-powered integrations.
+**01 / AI voice systems**  
+Integrated **8 Retell AI voice agents** into production workflows. The [CWS case study](https://rahimchaudhary.me/work/cws) covers queue-backed call scheduling, retries, status tracking, and human review of AI actions.
 
-I work primarily with **TypeScript, React, Next.js, NestJS, and PostgreSQL**, with a focus on building software that's reliable, maintainable, and built to scale.
+**02 / Full-stack applications**  
+Built features across the frontend and backend of [Brillix](https://rahimchaudhary.me/work/brillix), including onboarding, nested discussions, real-time notifications, rich-text editing, and admin dashboards.
 
-- 🧠 Integrated **8 AI voice agents** using Retell AI for real-world workflows.
-- ⚡ Built full-stack applications with authentication, dashboards, APIs, and database-driven features.
-- 🔧 Worked with background jobs, scheduled tasks, and third-party API integrations.
-- 🔐 Implemented security measures including JWT, HTTP-only cookies, CSRF protection, and CSP.
-- 🚀 Interested in **AI-powered products, backend architecture, and developer experience**.
+**03 / Reliability by design**  
+Worked with JWT authentication, HTTP-only cookies, CSRF/CSP protections, and content sanitization. Improved large interfaces through virtualization, pagination, lazy loading, and accessibility fixes.
 
----
+## Tools I work with
 
-### Tech Stack
+**Frontend** — `TypeScript` · `React` · `Next.js` · `Tailwind CSS` · `shadcn/ui`  
+**Backend & data** — `Node.js` · `NestJS` · `PostgreSQL` · `Prisma` · `REST APIs`  
+**AI & infrastructure** — `Retell AI` · `Redis` · `BullMQ` · `Docker` · `GitHub Actions` · `AWS`
 
-**Frontend**
+## Beyond GitHub
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark" alt="Frontend Technologies" />
-</p>
-
-**Backend & Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,postgres,mongodb&theme=dark" alt="Backend Technologies" />
-</p>
-
-**Tools & Infrastructure**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman&theme=dark" alt="Developer Tools" />
-</p>
-
-**AI & Automation**
-
-`Retell AI` · `Voice AI Agents` · `AI APIs` · `Workflow Automation` · `Background Jobs`
+Much of my professional work lives in private repositories. My [project case studies](https://rahimchaudhary.me/work) explain the problems I worked on and my contributions; the public repositories below show code I can share.
 
 ---
 
-### Engineering Experience
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01 / Full-Stack Development**
-
-Building end-to-end applications with modern frontend frameworks, backend APIs, database integrations, authentication, and responsive user experiences.
-
-</td>
-<td width="50%" valign="top">
-
-**02 / AI Integrations**
-
-Integrating conversational AI voice agents with application workflows, including scheduling, callbacks, and automated task execution.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03 / Backend & Architecture**
-
-Working with REST APIs, PostgreSQL, Prisma, asynchronous processing, cron jobs, and third-party services.
-
-</td>
-<td width="50%" valign="top">
-
-**04 / Quality & Performance**
-
-Improving application security, accessibility, SEO, rendering performance, and overall maintainability.
-
-</td>
-</tr>
-</table>
-
----
-
-### GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rahim439&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahim439&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Most Used Languages" />
-
-</div>
-
----
-
-<div align="center">
-
-**Good software solves problems. Great software makes complexity feel simple.**
-
-[Explore my work](https://rahimchaudhary.me) · [Let's connect](https://www.linkedin.com/in/rahim-chaudhary/)
-
-</div>
+Interested in working together or discussing an engineering role? [Get in touch](mailto:rahimch606@gmail.com).
